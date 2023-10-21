@@ -1,0 +1,20 @@
+{
+    "name": "Google.XR.ARCoreExtensions.GeospatialCreator",
+    "rootNamespace": "",
+    "references": [
+        "Google.XR.ARCoreExtensions",
+        "Unity.XR.ARCore",
+        "Unity.XR.ARSubsystems",
+        "Unity.XR.ARFoundation",
+        "Unity.XR.CoreUtils"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.cesium.unity": {
+      "tarball": {
+        "hash": "9e95552819dc",
+        "mtime": 1696700790557,
+        "size": 188680978,
+        "localPath": "/Users/damycarlino/Downloads/com.cesium.unity-1.6.3.tgz"
+      }
+    }
+  }
+}

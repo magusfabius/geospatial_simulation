@@ -1,0 +1,4 @@
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.cesium.unity@9e95552819dc/Plugins/Android/arm64/libCesiumForUnityNative-Runtime.so filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.cesium.unity@9e95552819dc/Plugins/Android/x86_64/libCesiumForUnityNative-Runtime.so filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.cesium.unity@9e95552819dc/Plugins/iOS/lib/libCesium3DTilesSelection.a filter=lfs diff=lfs merge=lfs -text
