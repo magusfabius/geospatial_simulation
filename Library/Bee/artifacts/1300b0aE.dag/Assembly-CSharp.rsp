@@ -423,6 +423,20 @@
 "Assets/ExampleAssets/Scripts/Fly.cs"
 "Assets/ExampleAssets/Scripts/StarterAssetsInputs.cs"
 "Assets/ExampleAssets/Scripts/ThirdPersonController.cs"
+"Assets/HeneGames/Dialogue System/Scripts/ClickMovement.cs"
+"Assets/HeneGames/Dialogue System/Scripts/DialogueCharacter.cs"
+"Assets/HeneGames/Dialogue System/Scripts/DialogueManager.cs"
+"Assets/HeneGames/Dialogue System/Scripts/DialogueTrigger.cs"
+"Assets/HeneGames/Dialogue System/Scripts/DialogueUI.cs"
+"Assets/HeneGames/Dialogue System/Scripts/Door.cs"
+"Assets/HeneGames/Dialogue System/Scripts/FollowTarget.cs"
+"Assets/HeneGames/Dialogue System/Scripts/Movement2D.cs"
+"Assets/HeneGames/Dialogue System/Scripts/SimpleNavAgentAnimation.cs"
+"Assets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs"
+"Assets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs"
+"Assets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs"
+"Assets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs"
+"Assets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs"
 -langversion:9.0
 
 /deterministic
