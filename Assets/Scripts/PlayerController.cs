@@ -18,7 +18,7 @@ public class PlayerController : MonoBehaviour
     {
         HandleMovement();
         if (Input.GetKeyDown(KeyCode.Space)) HandleJump();
-        if (Input.GetKeyDown(KeyCode.T)) HandleTimeSwitch();
+        //if (Input.GetKeyDown(KeyCode.T)) HandleTimeSwitch();
     }
 
     private void HandleMovement()
@@ -41,9 +41,12 @@ public class PlayerController : MonoBehaviour
         return Physics.Raycast(transform.position, Vector3.down, 1.1f);
     }
 
+
+    /*
     private void HandleTimeSwitch()
     {
         // Switch scene logic - this will be delegated to the TimeSwitcher script
         GetComponent<TimeSwitcher>().SwitchTime();
     }
+    */
 }
