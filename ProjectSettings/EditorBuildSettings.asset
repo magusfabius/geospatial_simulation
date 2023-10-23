@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Playground.unity
     guid: e9017d5f96b9f09489b4b37e1d6eb914
   - enabled: 1
-    path: Assets/Main Geo Game.unity
+    path: Assets/Scenes/Main Geo Game.unity
     guid: 9de97d824790d4caba16388d474b1419
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,

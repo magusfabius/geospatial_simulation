@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Main Geo Game.unity
+- path: Assets/Scenes/Main Geo Game.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
