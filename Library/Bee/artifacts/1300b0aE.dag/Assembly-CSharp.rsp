@@ -468,6 +468,7 @@
 "Assets/Scripts/CarController.cs"
 "Assets/Scripts/DateTimeSync.cs"
 "Assets/Scripts/FlyingCarController.cs"
+"Assets/Scripts/GravityController.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/QuestManager.cs"
 "Assets/Scripts/RL/HumanoidAgent.cs"
