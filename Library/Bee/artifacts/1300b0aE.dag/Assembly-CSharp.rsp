@@ -475,6 +475,7 @@
 "Assets/Scripts/QuestManager.cs"
 "Assets/Scripts/RL/HumanoidAgent.cs"
 "Assets/Scripts/TeleportScript.cs"
+"Assets/Scripts/TrafficLightsController.cs"
 "Assets/Scripts/UIScript.cs"
 -langversion:9.0
 
